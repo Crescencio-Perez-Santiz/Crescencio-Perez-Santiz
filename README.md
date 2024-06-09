@@ -1,15 +1,11 @@
 <!-- Usa HTML para ajustar el ancho de la imagen -->
 <img src="BannerCrescens.png" alt="Banner" style="width: 100%;">
 
-# Hola, soy Crescens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# Hello, I'm Crescens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
+Hello! I am a Software Engineer specializing in Backend Development. I am passionate about science, especially astronomy. I enjoy coding with a good cup of coffee and pleasant music in the background. I am always excited to learn and explore new technologies!
 
-
-¡Hola! Soy un Ingeniero de Software especializado en Desarrollo Backend. Me apasionan las ciencias, especialmente la astronomía. Disfruto mucho de codificar con una buena taza de café y música agradable de fondo. ¡Siempre estoy emocionado por aprender y explorar nuevas tecnologías!
-
-## 🌟 Tecnologías y Herramientas
-
-Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
+## 🌟 Technologies and Tools
 <div align="center">
 
   
@@ -125,7 +121,7 @@ Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
 </div>
 
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Crescens-Henry&show_icons=true&theme=gotham&rank_icon=github&hide=issues" alt="Crescens-Henry's GitHub stats" style="margin-right: 10px;"/>
@@ -134,27 +130,28 @@ Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
 
 
 
-## 📫 Cómo Contactarme
+## 📫 How to Reach Me
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/crescens-henry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="crescencio.ps.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
-## 🎓 Educación
+## 🎓 Education
 
-### Ingeniero en Software
+### Software Engineer
 
-**Universidad Politécnica de Chiapas**  
-Fecha de Graduación: 2024  
+**Polytechnic University of Chiapas**  
+Graduation Date: 2024  
 
-[Más información sobre la Universidad Politécnica de Chiapas](https://www.upchiapas.edu.mx/oferta_educativa/Ingenieria_en_Software)
+[More information about Polytechnic University of Chiapas](https://www.upchiapas.edu.mx/oferta_educativa/Ingenieria_en_Software)
 
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-- Español
-- Inglés
+- Spanish
+- English
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si quieres colaborar en algún proyecto.
+Thank you for visiting my profile! Feel free to contact me if you have any questions or if you want to collaborate on a project.
+
