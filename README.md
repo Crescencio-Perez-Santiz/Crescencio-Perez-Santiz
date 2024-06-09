@@ -1,37 +1,129 @@
 <!-- Usa HTML para ajustar el ancho de la imagen -->
 <img src="BannerCrescens.png" alt="Banner" style="width: 100%;">
 
-# Hola, soy Crescens 👋
+# Hola, soy Crescens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+
+
 
 ¡Hola! Soy un Ingeniero de Software especializado en Desarrollo Backend. Me apasionan las ciencias, especialmente la astronomía. Disfruto mucho de codificar con una buena taza de café y música agradable de fondo. ¡Siempre estoy emocionado por aprender y explorar nuevas tecnologías!
 
 ## 🌟 Tecnologías y Herramientas
 
 Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
-
 <div align="center">
-  <h3>Lenguajes</h3>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" width="50" height="50"></img>
-    <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="Python" width="50" height="50"/>
-  </div>
+
+  
+  ### Programming languages (& HTML)
+</div>
+
+</div>
+<div align="center">
+  <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" height="30" alt="bash_script logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/cplusplus/line.svg?color=%2300ACFF" height="30" alt="c++ logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" height="30" alt="java logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="30" alt="javascript logo"></img>
+  <img width="12" />  
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" height="30" alt="python logo"></img>
+  <img width="12" />  
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="30" alt="typescript logo"></img>
+  <img width="12" />  
+  <img src="https://devicon-website.vercel.app/api/php/original.svg" height="30" alt="php logo"></img>
+  <img width="12" />  
+  <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF" height="30" alt="markdown logo"></img>
+  <img width="12" />    
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="30" alt="html logo"></img>
+
 </div>
 
 <div align="center">
-  <h3>Frameworks</h3>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React" width="50" height="50"/>
-    <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="Node.js" width="50" height="50"/>
-  </div>
+
+### Frameworks & Libraries
+
 </div>
 
 <div align="center">
-  <h3>Tecnologías</h3>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="Docker" width="50" height="50"/>
-    <img src="https://devicon-website.vercel.app/api/kubernetes/plain-wordmark.svg"width="50" height="50"></img>
-  </div>
+  <img src="https://devicon-website.vercel.app/api/electron/original.svg?color=%2300D9FF" height="30" alt="electron logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/fastapi/plain.svg?color=%2300F5DC" height="30" alt="fastapi logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/nextjs/line.svg?color=%23FFFFFF" height="30" alt="nextjs logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/opencv/original.svg" height="30" alt="opencv logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" height="30" alt="react logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg" height="30" alt="spring logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="30" alt="taildwind logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" height="30" alt="tensorflow logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="30" alt="express logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" height="30" alt="nodejs logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/socketio/original.svg?color=%23FFFFFF" height="30" alt="socket_io logo"></img>
 </div>
+
+<div align="center">
+
+### Software & organization
+
+</div>
+
+<div align="center">
+  <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" height="30" alt="jupiter logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/apache/line-wordmark.svg?color=%23FF0000" height="30" alt="apache logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/blender/original.svg" height="30" alt="blender logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" height="30" alt="docker logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/jenkins/original.svg" height="30" alt="jenkins logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/jetbrains/original.svg" height="30" alt="jetbrains logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/jira/original.svg" height="30" alt="jira logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" height="30" alt="latex logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" height="30" alt="raspberrypi logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/trello/plain.svg" height="30" alt="trello logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" height="30" alt="ubuntu logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="30" alt="vscode logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/anaconda/original.svg" height="30" alt="anaconda logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/composer/original.svg" height="30" alt="composer logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/debian/original-wordmark.svg" height="30" alt="debian logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/nginx/original.svg" height="30" alt="nginx logo"></img>
+</div>
+
+<div align="center">
+
+### Cloud Services
+
+</div>
+
+<div align="center">
+  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="30" alt="mysql logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="30" alt="mongo logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" height="30" alt="aws logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/firebase/plain.svg" height="30" alt="firebase logo"></img>
+</div>
+
 
 ## 📊 Estadísticas de GitHub
 
@@ -50,7 +142,13 @@ Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
 
 ## 🎓 Educación
 
-- Ingeniero en Software(#) - Universidad Politecnica de Chiapas(#) - 2024.
+### Ingeniero en Software
+
+**Universidad Politécnica de Chiapas**  
+Fecha de Graduación: 2024  
+
+[Más información sobre la Universidad Politécnica de Chiapas](https://www.upchiapas.edu.mx/oferta_educativa/Ingenieria_en_Software)
+
 
 ## 🌐 Idiomas
 
