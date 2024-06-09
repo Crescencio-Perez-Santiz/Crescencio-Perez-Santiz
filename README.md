@@ -62,6 +62,11 @@ Hello! I am a Software Engineer specializing in Backend Development. I am passio
   <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" height="30" alt="nodejs logo"></img>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/socketio/original.svg?color=%23FFFFFF" height="30" alt="socket_io logo"></img>
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
 </div>
 
 <div align="center">
@@ -102,6 +107,10 @@ Hello! I am a Software Engineer specializing in Backend Development. I am passio
   <img src="https://devicon-website.vercel.app/api/debian/original-wordmark.svg" height="30" alt="debian logo"></img>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/nginx/original.svg" height="30" alt="nginx logo"></img>
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 <div align="center">
