@@ -76,8 +76,8 @@ src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=fo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Crescens-Henry&show_icons=true&theme=gotham&rank_icon=github" alt="Crescens-Henry's GitHub stats" style="margin-right: 10px;"/>
-  <a href="http://www.github.com/Crescens-Henry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Crescens-Henry&theme=gotham" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescens-Henry&layout=compact&theme=gotham&hide_progress=true" alt="Top Languages" style="margin-left: 10px;"/>
+  <a href="http://www.github.com/Crescens-Henry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Crescens-Henry&theme=gotham" /></a>
 </div>
 
 
