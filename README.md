@@ -1,139 +1,82 @@
-<!-- Usa HTML para ajustar el ancho de la imagen -->
 <img src="BannerCrescens.png" alt="Banner" style="width: 100%;">
 
-# Hello, I'm Crescens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Crescens 
 Hello! I am a Software Engineer specializing in Backend Development. I am passionate about science, especially astronomy. I enjoy coding with a good cup of coffee and pleasant music in the background. I am always excited to learn and explore new technologies!
 
-## 🌟 Technologies and Tools
-<div align="center">
+<a href="https://www.github.com/Crescens-Henry" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-  
-  ### Programming languages (& HTML)
-</div>
 
-</div>
-<div align="center">
-  <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" height="30" alt="bash_script logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/cplusplus/line.svg?color=%2300ACFF" height="30" alt="c++ logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" height="30" alt="java logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="30" alt="javascript logo"></img>
-  <img width="12" />  
-  <img src="https://devicon-website.vercel.app/api/python/original.svg" height="30" alt="python logo"></img>
-  <img width="12" />  
-  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="30" alt="typescript logo"></img>
-  <img width="12" />  
-  <img src="https://devicon-website.vercel.app/api/php/original.svg" height="30" alt="php logo"></img>
-  <img width="12" />  
-  <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF" height="30" alt="markdown logo"></img>
-  <img width="12" />    
-  <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="30" alt="html logo"></img>
-
-</div>
-
-<div align="center">
-
-### Frameworks & Libraries
-
-</div>
-
-<div align="center">
-  <img src="https://devicon-website.vercel.app/api/electron/original.svg?color=%2300D9FF" height="30" alt="electron logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/fastapi/plain.svg?color=%2300F5DC" height="30" alt="fastapi logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nextjs/line.svg?color=%23FFFFFF" height="30" alt="nextjs logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/opencv/original.svg" height="30" alt="opencv logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/react/original.svg" height="30" alt="react logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg" height="30" alt="spring logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="30" alt="taildwind logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" height="30" alt="tensorflow logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="30" alt="express logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" height="30" alt="nodejs logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/socketio/original.svg?color=%23FFFFFF" height="30" alt="socket_io logo"></img>
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-</div>
-
-<div align="center">
-
-### Software & organization
-
-</div>
-
-<div align="center">
-  <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" height="30" alt="jupiter logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/apache/line-wordmark.svg?color=%23FF0000" height="30" alt="apache logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/blender/original.svg" height="30" alt="blender logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" height="30" alt="docker logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/jenkins/original.svg" height="30" alt="jenkins logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/jetbrains/original.svg" height="30" alt="jetbrains logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/jira/original.svg" height="30" alt="jira logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" height="30" alt="latex logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" height="30" alt="raspberrypi logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/trello/plain.svg" height="30" alt="trello logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" height="30" alt="ubuntu logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="30" alt="vscode logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/anaconda/original.svg" height="30" alt="anaconda logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/composer/original.svg" height="30" alt="composer logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/debian/original-wordmark.svg" height="30" alt="debian logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nginx/original.svg" height="30" alt="nginx logo"></img>
-   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
-
-<div align="center">
-
-### Cloud Services
-
-</div>
-
-<div align="center">
-  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="30" alt="mysql logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="30" alt="mongo logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" height="30" alt="aws logo"></img>
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/firebase/plain.svg" height="30" alt="firebase logo"></img>
-</div>
-
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
+<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+</div>  
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crescens-Henry&show_icons=true&theme=gotham&rank_icon=github&hide=issues" alt="Crescens-Henry's GitHub stats" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Crescens-Henry&show_icons=true&theme=gotham&rank_icon=github" alt="Crescens-Henry's GitHub stats" style="margin-right: 10px;"/>
+  <a href="http://www.github.com/Crescens-Henry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Crescens-Henry&theme=gotham" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescens-Henry&layout=compact&theme=gotham&hide_progress=true" alt="Top Languages" style="margin-left: 10px;"/>
 </div>
 
