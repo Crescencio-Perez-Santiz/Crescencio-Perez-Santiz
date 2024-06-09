@@ -5,6 +5,10 @@ Hello! I am a Software Engineer specializing in Backend Development. I am passio
 
 <a href="https://www.github.com/Crescens-Henry" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/crescens-henry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="crescencio.ps.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 
 ## Languages and Tools  
@@ -21,7 +25,7 @@ src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=fo
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://devicon-website.vercel.app/api/blender/original.svg" alt="Blender" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
@@ -70,6 +74,7 @@ src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=fo
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://conda.org/" target="_blank"><img style="margin: 10px" src="https://devicon-website.vercel.app/api/anaconda/original.svg" alt="Conda" height="50" /> </a>  
 </div>  
 
 ## 📊 GitHub Stats
@@ -79,14 +84,6 @@ src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=fo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescens-Henry&layout=compact&theme=gotham&hide_progress=true" alt="Top Languages" style="margin-left: 10px;"/>
   <a href="http://www.github.com/Crescens-Henry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Crescens-Henry&theme=gotham" /></a>
 </div>
-
-
-
-## 📫 How to Reach Me
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/crescens-henry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="crescencio.ps.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 ## 🎓 Education
 
