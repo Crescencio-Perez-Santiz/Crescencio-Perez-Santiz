@@ -10,6 +10,17 @@ src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=fo
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 
+
+## 📊 GitHub Stats
+
+  <img src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-transparent-background-background-check-all-9.png" alt="Crescens" align= "right" width="50%" />
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Crescens-Henry&show_icons=true&theme=gotham&rank_icon=github" alt="Crescens-Henry's GitHub stats" width="48%"" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crescens-Henry&theme=gotham" alt="GitHub Streak Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescens-Henry&layout=compact&theme=gotham" alt="Top Languages" width="40%" />
+  </div>
+  
+ 
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="43" /></a>  
@@ -34,17 +45,6 @@ src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=fo
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="43" /></a>  
 <a href="https://conda.org/" target="_blank"><img style="margin: 10px" src="https://devicon-website.vercel.app/api/anaconda/original.svg" alt="Conda" height="43" /> </a>  
 </div>  
-
-## 📊 GitHub Stats
-
-  <img src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-transparent-background-background-check-all-9.png" alt="Crescens" align= "right" width="50%" />
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Crescens-Henry&show_icons=true&theme=gotham&rank_icon=github" alt="Crescens-Henry's GitHub stats" width="43%"" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crescens-Henry&theme=gotham" alt="GitHub Streak Stats" width="43%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescens-Henry&layout=compact&theme=gotham" alt="Top Languages" width="43%" />
-  </div>
-  
- 
 
 
 
